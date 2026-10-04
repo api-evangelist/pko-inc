@@ -22,7 +22,7 @@ accessModel:
   generated: '2026-07-22'
   method: derived
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/pko-inc.png
-name: PKO Inc.
+name: PKO
 description: PKO is a collective and investment group operating at the intersection of technology and entertainment. Describing itself as a community of founders, creators, execs, artists, angels and investors with more than 700 members, PKO runs online and offline networking events, mixers and collaborations, and invests in startups across metaverse, virtual worlds, VR/AR, web3 (crypto, NFTs, DAOs), the creator economy, gaming and esports, social media, platforms, marketplaces, communities, streaming video, and content and media. It was surfaced as a portfolio company of 500 Global and added to the API Evangelist network. PKO publishes no public API, SDK, or developer surface; founders submit pitches by email.
 url: https://raw.githubusercontent.com/api-evangelist/pko-inc/refs/heads/main/apis.yml
 x-type: company
@@ -62,3 +62,4 @@ x-enrichment:
   status: minimal
   artifacts_added: 2
   pass: local-v1
+x-legal-name: PKO Inc.
